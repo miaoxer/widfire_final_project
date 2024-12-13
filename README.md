@@ -37,8 +37,11 @@ Python version: 3.12.5 | packaged by conda-forge | (main, Aug  8 2024, 18:24:51)
 Package                   Version
 ------------------------- --------------
 anyio                     4.4.0
+
 argon2-cffi               23.1.0
+
 argon2-cffi-bindings      21.2.0
+
 arrow                     1.3.0
 asttokens                 2.4.1
 async-lru                 2.0.4
