@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env/
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+*.h5
+*.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+*.egg-info/
